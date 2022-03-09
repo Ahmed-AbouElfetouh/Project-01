@@ -10,7 +10,7 @@
 - Animate width on scrolling at skills section.
 - Popup at gallary section.
 - All logic with vanilla javascript.
-- Website is fully responsive by [Media Quares]
+- Website is fully responsive by [Media Queries]
 
 For live preview [Click Here](https://ahmed-abouelfetouh.github.io/Project-01/)
 
